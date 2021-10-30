@@ -1,3 +1,5 @@
 <style>
-background: 31, 31, 31;
+body{
+   bgcolor: #3b3b3b;
+  }
 </style>
