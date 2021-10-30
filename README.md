@@ -1,12 +1,19 @@
 ## Welcome to GitHub Pages
 
-<button>gjhgjhg</button>
+<style>
+h1 { 
+    font-size: 120%; 
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    color: #333366;
+   }
+</style>
 
 You can use the [editor on GitHub](https://github.com/HAPETU/hapetu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+<h1>Hello world</h1>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
